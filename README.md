@@ -1,5 +1,5 @@
 # Tableau_Retail
-Tableau-dashboard-history
+#Tableau#dashboard#history
 
 ## Summary
 Superstore, a company that provides office supplies, technology, and furniture, wants to know What are the products that are making the company waste money in each of its segments so that the executives of the company can design new strategies or make decisions.
@@ -21,3 +21,5 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 * Among the four categories, the technology category only wasted money in the consumer segment in the last trimester with the office machines and the copiers and faxes. However, the trend shows that both products are started to increase their profits.
 
 ### Observations
+
+![texto alternativo]([url de la imagen](https://github.com/Joizra/Tableau_Retail-Project/blob/599ea5923bdf1fd719146b398f8bf16e66f18216/HomeOffice.jpg))
