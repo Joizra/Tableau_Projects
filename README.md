@@ -22,52 +22,59 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 
 ### Observations
 
-#### Consumer
+ #### Consumer
 
-##### Furniture: Bookcase
-* The profits of the product shows a performance under cero in the last trimester. Additionally, the product present loses among all the stores where it is sold except in one. In the last trimester, the company lost about 4k American Dollars in the last trimester.
+  ##### Bookcase
+* The profits of the product shows a performance under cero in the last trimester. Additionally, the product present loses among all the stores where it is sold except in one. In the last trimester, the company lost about 4k Dollars in the last trimester.
 
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="800" height="500">
 </p>
 
-##### Office Supplies:
+  ##### Rubber bands
+The company lost about 0.8 k american dollars in the last trimester. The graph shows a negative trend in the performance of the product. 
+
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/Co_OS_1.jpg" width="800" height="500">
 </p>
 
-##### Office Supplies:
+  ##### Paper:
+The company lost about 0.3 k american dollars in the last trimester. The graph shows a negative trend in the performance of the product. The company loses money in more than one city where this product is sold.
+
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/Co_OS_2.jpg" width="800" height="500">
 </p>
 
-#### Corporate
+ #### Corporate
 
-##### Furniture: 
+  ##### Bookcase:
+The company lost about 4 k american dollars in the last trimester. The graph 
+shows a negative trend in the performance of the product. The company loses money in more than one city where this product is sold.
+ 
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/C_F_1.jpg" width="800" height="500">
 </p>
 
-#### Home Office
+ #### Home Office
 
-##### Furniture: 
+  ##### Scissor, rulers and trimmers: 
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/599ea5923bdf1fd719146b398f8bf16e66f18216/HomeOffice.jpg" width="800" height="500">
 </p>
 
-#### Small Business
+ #### Small Business
 
-##### Furniture: 
+  ##### Bookcase: 
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_F_1.jpg" width="800" height="500">
 </p>
 
-##### Office Supplies:
+  ##### Rubber bands:
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_OS_1.jpg" width="800" height="500">
 </p>
 
-##### Office Supplies:
+  ##### Binder:
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_OS_2.jpg" width="800" height="500">
 </p>
