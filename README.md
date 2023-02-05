@@ -23,7 +23,7 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 ### Observations
 
 <p align="center">
-  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="1000" height="500">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="800" height="500">
 </p>
 
 ![ConsumerFurniture](https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg)
