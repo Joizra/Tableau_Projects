@@ -26,10 +26,32 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="800" height="500">
 </p>
 
-![ConsumerFurniture](https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg)
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/Co_OS_1.jpg" width="800" height="500">
+</p>
 
-![ConsumerOSRubber]()
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/Co_OS_2.jpg" width="800" height="500">
+</p>
 
-![]()
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/C_F_1.jpg" width="800" height="500">
+</p>
 
-![HomeOffice](https://github.com/Joizra/Tableau_Retail-Project/blob/599ea5923bdf1fd719146b398f8bf16e66f18216/HomeOffice.jpg)
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/599ea5923bdf1fd719146b398f8bf16e66f18216/HomeOffice.jpg" width="800" height="500">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_F_1.jpg" width="800" height="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_OS_1.jpg" width="800" height="500">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/90c960c8aa0f32c6efc63dd529556cd1a7b4cf26/SB_OS_2.jpg" width="800" height="500">
+</p>
+
