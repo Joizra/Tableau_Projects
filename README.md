@@ -22,6 +22,8 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 
 ### Observations
 
+* The profits of the product shows a performance under cero in the last trimester. Additionally, the product present loses among all the stores where it is sold except in one. In the last trimester, the company lost about 4k American Dollars in the last trimester.
+
 <p align="center">
   <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="800" height="500">
 </p>
