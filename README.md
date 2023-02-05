@@ -22,4 +22,14 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 
 ### Observations
 
+<p align="center">
+  <img src="https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg" width="500" height="300">
+</p>
+
+![ConsumerFurniture](https://github.com/Joizra/Tableau_Retail-Project/blob/81bd44ea00e75522cd947503d4549bef3b834b41/Con_F_1.jpg)
+
+![ConsumerOSRubber]()
+
+![]()
+
 ![HomeOffice](https://github.com/Joizra/Tableau_Retail-Project/blob/599ea5923bdf1fd719146b398f8bf16e66f18216/HomeOffice.jpg)
