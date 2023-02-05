@@ -16,5 +16,8 @@ The data analyst designed a report that displays for each segment(Consumer, Corp
 
 
 
-## Result
+## Results
+* Among the four segments, tables and bookcases of the furniture category show a loss in their profits of the last trimester. 
+* Among the four categories, the technology category only wasted money in the consumer segment in the last trimester with the office machines and the copiers and faxes. However, the trend shows that both products are started to increase their profits.
 
+### Observations
